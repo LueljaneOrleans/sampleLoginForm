@@ -1,5 +1,6 @@
 body{
     background: url(img/nature.png) no-repeat center center fixed;
+    height: 200%;
     background-size: cover;
 }
 .container{
