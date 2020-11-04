@@ -7,8 +7,13 @@ body{
     margin-top: 8%;
     
 }
-.card {
-
+.form-container{
+    width: 70%;
+    height: 90%;
+    margin: auto;
+    border: 0px solid #ffffff;
+    padding: 30px 40px;
+    margin-top: 18vh;
     border-radius: 10px;
     border-top: 5px solid whitesmoke(176, 106, 252);
     background-color: transparent;
@@ -16,19 +21,20 @@ body{
     -webkit-box-shadow: 1px 4px 26px 12px rgba(0,0,0,0.75);
     -moz-box-shadow: 1px 4px 26px 12px rgba(0,0,0,0.75);
     box-shadow: 1px 4px 26px 12px rgba(0,0,0,0.75);
-    
-    color:white
-    
+   
 }
 
 h2 {
+    color: rgb(244, 244, 245);
     font-weight: 600;
     font-size: 30px
+   
 }
 
 .form-control {
     border: 1px solid #b5edf7;
     border-radius: 3px;
+    padding: 2px;
     background: white;
     margin-bottom: 20px;
     letter-spacing: 1px
