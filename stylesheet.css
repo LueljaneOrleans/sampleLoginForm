@@ -5,7 +5,11 @@ body{
 }
 .container{
     margin-top: 8%;
+    height: 200%;
     
+}
+.row{
+    height: 200%;
 }
 .form-container{
     width: 70%;
@@ -13,7 +17,7 @@ body{
     margin: auto;
     border: 0px solid #ffffff;
     padding: 30px 40px;
-    margin-top: 18vh;
+    margin-top: 10vh;
     border-radius: 10px;
     border-top: 5px solid whitesmoke(176, 106, 252);
     background-color: transparent;
